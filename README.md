@@ -71,17 +71,9 @@
 
 ### 📌 Proyectos Destacados
 
-<div align="center">
-
-<a href="https://github.com/AlbertoDuque1006/enterprise-template-api">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AlbertoDuque1006&repo=enterprise-template-api&theme=default" />
-</a>
-
-</div>
-
 | Proyecto | Descripción | Stack |
 |---|---|---|
-| 🧾 **Enterprise Template API** | API para generación dinámica de plantillas Excel validadas en procesos de carga masiva. | `Python` `FastAPI` `Docker` `Kubernetes` |
+| 🧾 **[Enterprise Template API](https://github.com/AlbertoDuque1006/enterprise-template-api)** | API para generación dinámica de plantillas Excel validadas en procesos de carga masiva. | `Python` `FastAPI` `Docker` `Kubernetes` |
 | ⚙️ **Automation Platform** | 150+ flujos de automatización en producción integrando sistemas vía APIs y webhooks. | `n8n` `SQL Server` `Webhooks` |
 | 🌐 **Smart Project** | Aplicación full stack con frontend en React y backend en FastAPI. | `React` `FastAPI` `Docker` |
 | 🤖 **AI Automation Assistant** | Asistente de IA con memoria conversacional integrado mediante n8n. | `OpenAI` `n8n` `Python` |
