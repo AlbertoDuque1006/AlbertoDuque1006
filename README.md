@@ -92,7 +92,7 @@ dato_curioso: "Reduje procesos que tomaban 3 semanas a solo 2 días 🚀"
 | Proyecto | Descripción | Stack |
 |---|---|---|
 | 🧾 **[Enterprise Template API](https://github.com/AlbertoDuque1006/enterprise-template-api)** | API para generación dinámica de plantillas Excel validadas en procesos de carga masiva. | `Python` `FastAPI` `Docker` `Kubernetes` |
-| ⚙️ **Automation Platform** | 150+ flujos de automatización en producción integrando sistemas vía APIs y webhooks. | `n8n` `SQL Server` `Webhooks` |
+| ⚙️ **[Automation Platform](https://github.com/AlbertoDuque1006/n8n-portfolio-workflows)** | 150+ flujos de automatización en producción integrando sistemas vía APIs y webhooks. | `n8n` `SQL Server` `Webhooks` |
 | 🌐 **[Smart Project](https://github.com/AlbertoDuque1006/smart-project)** | Aplicación full stack con frontend en React y backend en FastAPI. | `React` `FastAPI` `Docker` |
 | 🤖 **AI Automation Assistant** | Asistente de IA con memoria conversacional integrado mediante n8n. | `OpenAI` `n8n` `Python` |
 | 🗺️ **QGIS REST Attachments Plugin** | Plugin publicado para visualizar adjuntos de servicios ArcGIS REST FeatureServer. | `Python` `PyQGIS` `Qt` |
