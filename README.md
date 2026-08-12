@@ -96,14 +96,6 @@ dato_curioso: "Reduje procesos que tomaban 3 semanas a solo 2 días 🚀"
 
 ---
 
-### 🏆 Trofeos de GitHub
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=AlbertoDuque1006&theme=onedark&no-frame=true&row=1&column=6&margin-w=8" />
-
-</div>
-
 ---
 
 ### 🐍 Actividad reciente
@@ -113,10 +105,6 @@ dato_curioso: "Reduje procesos que tomaban 3 semanas a solo 2 días 🚀"
 <img src="https://raw.githubusercontent.com/AlbertoDuque1006/AlbertoDuque1006/output/github-contribution-grid-snake.svg" width="100%" />
 
 </div>
-
-> ⚙️ La animación de la serpiente se genera automáticamente con GitHub Actions.
-> Guía rápida: crea `.github/workflows/snake.yml` en tu repo de perfil con la acción
-> [`Platane/snk`](https://github.com/Platane/snk) — así se actualiza sola cada día.
 
 ---
 
