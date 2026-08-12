@@ -97,7 +97,6 @@ dato_curioso: "Reduje procesos que tomaban 3 semanas a solo 2 días 🚀"
 | 🤖 **AI Automation Assistant** | Asistente de IA con memoria conversacional integrado mediante n8n. | `OpenAI` `n8n` `Python` |
 | 🗺️ **QGIS REST Attachments Plugin** | Plugin publicado para visualizar adjuntos de servicios ArcGIS REST FeatureServer. | `Python` `PyQGIS` `Qt` |
 
----
 
 ---
 
