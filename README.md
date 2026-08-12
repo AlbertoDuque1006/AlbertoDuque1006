@@ -15,12 +15,6 @@
 
 </div>
 
-[![Gmail](https://img.shields.io/badge/-albertoduquegamez%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:albertoduquegamez@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alberto-jose-duque-gamez-088a04355/)
-[![GitHub](https://img.shields.io/badge/-AlbertoDuque1006-181717?style=flat&logo=github&logoColor=white)](https://github.com/AlbertoDuque1006)
-![Profile Views](https://komarev.com/ghpvc/?username=AlbertoDuque1006&color=1F4E79&style=flat&label=Visitas+al+perfil)
-
-</div>
 
 ---
 
