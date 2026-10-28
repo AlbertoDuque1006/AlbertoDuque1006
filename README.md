@@ -89,12 +89,22 @@ dato_curioso: "Reduje procesos que tomaban 3 semanas a solo 2 días 🚀"
 
 ### 📌 Proyectos Destacados
 
+**Código abierto**
+
 | Proyecto | Descripción | Stack |
 |---|---|---|
-| 🧾 **[Enterprise Template API](https://github.com/AlbertoDuque1006/enterprise-template-api)** | API para generación dinámica de plantillas Excel validadas en procesos de carga masiva. | `Python` `FastAPI` `Docker` `Kubernetes` |
-| ⚙️ **[Automation Platform](https://github.com/AlbertoDuque1006/n8n-portfolio-workflows)** | 150+ flujos de automatización en producción integrando sistemas vía APIs y webhooks. | `n8n` `SQL Server` `Webhooks` |
-| 🌐 **[Smart Project](https://github.com/AlbertoDuque1006/smart-project)** | Aplicación full stack con frontend en React y backend en FastAPI. | `React` `FastAPI` `Docker` |
-| 🤖 **AI Automation Assistant** | Asistente de IA con memoria conversacional integrado mediante n8n. | `OpenAI` `n8n` `Python` |
+| ⚙️ **[n8n Automation Portfolio](https://github.com/AlbertoDuque1006/n8n-portfolio-workflows)** | Workflows en producción: carga masiva config-driven, agente ChatOps con MCP y asistente personal de IA. | `n8n` `OpenAI` `LangChain` `SQL Server` |
+| 🤖 **[Jarvis AI Assistant](https://github.com/AlbertoDuque1006/n8n-portfolio-workflows/tree/main/jarvis-ai-assistant)** | Asistente de IA con memoria conversacional, Telegram, calendario y recordatorios. | `n8n` `OpenAI` `PostgreSQL` `Redis` |
+| ☁️ **[Product API](https://github.com/AlbertoDuque1006/product-api)** | API REST serverless definida como infraestructura como código. | `Python` `AWS Lambda` `API Gateway` `AWS CDK` |
+| 🧩 **[Apps Script WebApp Builder](https://github.com/AlbertoDuque1006/appscript-webapp-builder-skill)** | Skill de Claude para crear apps web CRUD y dashboards sobre Google Sheets. | `Claude` `Apps Script` `JavaScript` |
+
+**Otros proyectos (sin repositorio público)**
+
+| Proyecto | Descripción | Stack |
+|---|---|---|
+| 📅 **Smartlab · Sistema de reservas** | Reservas con la marca de cada negocio, avisos por WhatsApp y tarjetas en Apple/Google Wallet. | `Apps Script` `Cloudflare` `WhatsApp API` |
+| 🧾 **Enterprise Template API** | Generación dinámica de plantillas Excel validadas para procesos de carga masiva. | `Python` `FastAPI` `Docker` `Kubernetes` |
+| 🎬 **Editor de video con IA** | Editor de escritorio (Mac y Windows) y app móvil. | `TypeScript` `Electron` `Expo` |
 | 🗺️ **QGIS REST Attachments Plugin** | Plugin publicado para visualizar adjuntos de servicios ArcGIS REST FeatureServer. | `Python` `PyQGIS` `Qt` |
 
 
