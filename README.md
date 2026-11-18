@@ -47,7 +47,6 @@ estudiando:
 | ⚙️ **[n8n Automation Portfolio](https://github.com/AlbertoDuque1006/n8n-portfolio-workflows)** | 23 workflows en producción: cargue masivo *config-driven*, agente ChatOps con MCP y asistente personal (Jarvis). | `n8n` `OpenAI` `LangChain` `MCP` `PostgreSQL` |
 | 🧩 **[Apps Script WebApp Builder](https://github.com/AlbertoDuque1006/appscript-webapp-builder-skill)** | Skill de Claude para crear apps web CRUD y dashboards sobre Google Sheets. | `Claude` `Apps Script` `JavaScript` |
 | ☁️ **[Product API](https://github.com/AlbertoDuque1006/product-api)** | API REST serverless definida como infraestructura como código. | `Python` `AWS Lambda` `API Gateway` `AWS CDK` |
-| 🗺️ **[ArcGIS REST Attachments Viewer](https://plugins.qgis.org/plugins/arcgis_attachments_viewer/)** (coautor) | Plugin publicado en el repositorio oficial de QGIS para ver desde QGIS los adjuntos de un FeatureServer de ArcGIS REST. Hecho en colaboración. | `Python` `PyQGIS` `Qt` |
 
 #### Productos en producción (código privado)
 
